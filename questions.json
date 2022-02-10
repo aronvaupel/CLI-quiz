@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "answer": "<script>"
+  },
+  {
+    "question": "What's the output of\nconsole.log(false == '0');",
+    "answer": "true"
+  },
+  {
+    "question": "Whats the output of\nconst numbers = [33, 2, 8];\nnumbers.sort();\nconsole.log(numbers[1])",
+    "answer": "33"
+  },
+  {
+    "question": "Whats the output of\nconsole.log(('b' + 'a' + + 'a' + 'a').toLowerCase());",
+    "answer": "banana"
+  },
+  {
+    "question": "Whats the output of\nlet array = [1, 2, 3];\narray[6] = 9;\nconsole.log(array[5]);",
+    "answer": "undefined"
+  },
+  {
+    "question": "Whats the output of\nconsole.log(1 +  \"2\" + \"2\");",
+    "answer": "122"
+  }
+]
